@@ -1,4 +1,4 @@
 sample:
-- name: "Kyle"
+  name: "Kyle"
   age: 27
   hometown: "Minneapolis"
