@@ -2,4 +2,3 @@ sample:
   name: "Joe"
   age: 25
   hometown: "St. Paul"
-  developer: true
